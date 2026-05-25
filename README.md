@@ -60,7 +60,7 @@ pip install numpy matplotlib scipy
 ## Usage
 
 ```bash
-python GBM_Simulation.py
+python gbm_simulation.py
 ```
 
 Charts are saved to a `charts/` folder in the working directory.
